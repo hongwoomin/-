@@ -1,0 +1,4 @@
+Audio          www.ti.com/audio     AutomotiveandTransportation www.ti.com/automotive
+Amplifiers                          CommunicationsandTelecom    www.ti.com/communications
+DataConverters dataconverter.ti.com                             www.ti.com/computers
+               www.dlp.com          ConsumerElectronics         www.ti.com/consumer-apps
